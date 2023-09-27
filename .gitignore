@@ -1,3 +1,11 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
 .vscode/
 
-*.class
+### Pushing to Github ###
+*.iml
+.idea/
